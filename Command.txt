@@ -1,0 +1,7 @@
+pip install fastapi uvicorn onnxruntime
+
+#Run Server
+python server.py
+
+#Run for html
+python -m http.server
